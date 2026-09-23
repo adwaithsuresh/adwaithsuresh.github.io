@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://adwaithsuresh.github.io/sitemap.xml
